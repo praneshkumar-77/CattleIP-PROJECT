@@ -6,7 +6,6 @@ joblib
 gradio
 fastapi
 uvicorn
-tensorflow
 Pillow
 flask
 flask-cors
